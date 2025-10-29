@@ -48,7 +48,3 @@ Les mots sont affichés sous forme de badges réactifs.
 Tri
 
 L’utilisateur peut choisir de trier les mots par fréquence croissante ou décroissante.
-
-Bouton Clear
-
-Vide le <textarea> et réinitialise le compteur et la liste des mots.
